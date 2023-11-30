@@ -1,0 +1,16 @@
+body {
+	background-color: #4ddbff;
+}
+h1{
+	text-align: center;
+	background-color:#6666ff;
+	border: 2px solid black
+}
+.f1{
+	text-align: center;
+}
+img {
+	margin-left: 165px;
+    width: 70%;
+    height: 350px;
+}
